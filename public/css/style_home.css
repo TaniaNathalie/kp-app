@@ -1,0 +1,49 @@
+#all{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+header{
+    background-color: #008800;
+    padding: 3px;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+#navkiri{
+    background-color: #008800;
+    width: 20%;
+    height: 85%;
+    float: left;
+}
+#konten{
+    width: 80%;
+    height: 85%;
+    float: left;
+}
+nav h2{
+    color: white;
+    text-indent: 5%;
+}
+nav h4{
+    color: white;
+    text-indent: 10%;
+}
+footer{
+    clear: both;
+    text-align: center;
+    height: 6%;
+    background-color: #008800;
+}
+main button{
+    background-color: #DCFFDC;
+    padding: 20px;
+    margin: 20px;
+}
+main h1{
+    font-size: 60px;
+    font-weight: bold;
+}
